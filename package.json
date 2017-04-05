@@ -1,0 +1,23 @@
+{
+  "name": "pikaday-jquery",
+  "version": "1.0.0",
+  "description": "Pikaday jQuery plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szaranger/pikaday-jquery.git"
+  },
+  "keywords": [
+    "Pikaday",
+    "jQuery"
+  ],
+  "author": "Sean Amarasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szaranger/pikaday-jquery/issues"
+  },
+  "homepage": "https://github.com/szaranger/pikaday-jquery#readme"
+}
